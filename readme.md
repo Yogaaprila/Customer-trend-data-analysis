@@ -14,6 +14,7 @@ and help determine appropriate strategies for future business activities.
 4. Perfome some analysis with SQL.
 5. Connect Google BigQuery to Power BI to load the dataset and create an interactive dashboard.
 6. Identify and analyze key business insights through the dashboard, such as total customers, total revenue, customer purchasing behavior, and other relevant performance indicators.
+7. Post the projects on Github.
 
 
 
